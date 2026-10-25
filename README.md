@@ -6,7 +6,7 @@ Method 1:
 You can install the .py file and run it any editor like VS code or even python idle
 
 Method 2:
-You can install .exe file and start playing directly. No setup needed.
+You can install .exe file from the releases page of this repo and start playing directly. No setup needed.
 
 
 How to play:
