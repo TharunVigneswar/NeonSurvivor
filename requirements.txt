@@ -1,0 +1,5 @@
+1. Have pygame library installed
+
+If you are running it using the .py file, have either IDLE, VS code or editor.
+
+If you are running it using the .exe file, you are already all set, You can start playing just by isnatlling the .exe file
