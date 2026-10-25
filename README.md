@@ -11,4 +11,4 @@ You can install .exe file and start playing directly. No setup needed.
 
 How to play:
 <img width="959" height="485" alt="image" src="https://github.com/user-attachments/assets/ff8bc97e-8fe8-4aac-a5b4-77ab93c4cdaa" />
-Once you load the game, it will show you this screen. You can then press play and your in. Start playing, enjoy the game.
+Once you load the game, it will show you this screen. You can then press start game and your in. Start playing, enjoy the game.
