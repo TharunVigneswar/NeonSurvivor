@@ -63,18 +63,16 @@ The game will launch, and you'll be ready to enter the arena!
 - **R** = Restart after game over
 - **Drag the window edges** = Adjust the game window size
 
-## Features
+## Screenshots
 
-- Fast-paced top-down survival gameplay
-- Neon-inspired visuals and a futuristic arena
-- Enemies that chase the player
-- Different enemy sizes and health levels
-- Mouse aiming and continuous shooting
-- Particle effects when bullets hit enemies
-- Health bar, survival timer, and kill counter
-- Increasing difficulty as time passes
-- Main menu, pause menu, and game-over screen
-- Adjustable game window size
+**Main Menu**
+<img width="959" height="484" alt="image" src="https://github.com/user-attachments/assets/a1bc95fa-a993-4c56-a1ac-af7a13c3f30b" />
+
+**Gameplay**
+<img width="959" height="490" alt="image" src="https://github.com/user-attachments/assets/6eb6556c-100a-410a-b558-e103b431cbea" />
+
+**Game Over**
+<img width="959" height="489" alt="image" src="https://github.com/user-attachments/assets/15739df3-0bff-4df8-844e-13bfa8f7e517" />
 
 ## THANKS FOR PLAYING
 
